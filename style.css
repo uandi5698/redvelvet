@@ -1,0 +1,53 @@
+body
+{
+	background-color: #ffd1c3;
+}
+
+.main_container
+{
+	
+	width:80%;
+}
+
+.main_container
+{
+	padding-top: 90px;
+
+}
+
+.jumbotron
+{
+	text-align: left;
+
+	padding: 550px 50px 100px 50px;
+	background-color: #ffd1c3;
+	background-image: url('ksg.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+ .jumbotron .col-sm-9 h1
+{
+	padding-top: 10px;
+	color: #ffd1c3;
+}
+.jumbotron p
+{
+	color:white;
+}
+.col-sm-3 
+{
+	padding-top:70px;
+	background-image: 
+	background-size:contain;
+	background-repeat: no-repeat;
+}
+.button-pad
+{
+	padding-bottom: 50px;
+}
+.subcontainer
+{
+	background-color:rgba(100%,100%,100%,0.3);
+	padding: 20px 20px;
+}
